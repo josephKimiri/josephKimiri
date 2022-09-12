@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @josephKimiri
 - 👀 I’m interested in Web Development particulary Front-End development
 - Currently studying Reverse Engineering and Malware Analysis.
-- I am also studying Reverse Engineering.
+- I am a CTF player for @fr334aks-mini
 - 🌱 I love python for web scripting. I also love JavaScript.
 - 💞️ I’m looking to collaborate on projects with different developers so as to achieve greatness.
 - 📫 You can reach me out via e-mail: joseph.kimiri.macharia@gmail.com or via Tel:+254746023103
